@@ -8,6 +8,6 @@ How to use this downloader -
 ![Security screen](https://user-images.githubusercontent.com/61279841/95559813-f848d800-0a35-11eb-905e-5cfa66c91516.jpg)
 
 4. On the security window that poped up. Click on more info -> run anyway (also make sure that your antivirus don't bloack it either)
-5. The app will run file and you can download any video or playlist from Youtube !!
+5. The app will run fine and you can download any video or playlist from Youtube !!
 
 ![Downloader](https://user-images.githubusercontent.com/61279841/95556270-b1a4af00-0a30-11eb-991c-e4c970bfd0c1.jpg)
