@@ -1,4 +1,4 @@
-This is a Youtube Video and Playlist downloader made using python and pytube3 library and the GUI is make using tinkter.
+This is a Youtube Video and Playlist downloader made using python and pytube3 library and the GUI is made using tinkter.
 
 How to use this downloader - 
 1. Download The YtDownloader.zip and extract it
