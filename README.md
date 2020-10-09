@@ -2,7 +2,7 @@ This is a Youtube Video and Playlist downloader made using python and pytube3 li
 
 How to use this downloader - 
 1. Download The YtDownloader.zip and extract it
-2 .Go to the YtDownloader folder and there you can fine YtDownloader.exe. Click on it to run the app
+2. Go to the YtDownloader folder and there you can fine YtDownloader.exe. Click on it to run the app
 3. At first, the windows system will give a security warning (as I dont have certificate to verify that the file is safe), but its completely safe
 
 ![Security screen](https://user-images.githubusercontent.com/61279841/95559813-f848d800-0a35-11eb-905e-5cfa66c91516.jpg)
